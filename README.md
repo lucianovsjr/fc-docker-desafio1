@@ -1,6 +1,4 @@
 # Docker - Desafio 1
-
-## Desafio
 Gerar uma imagem que retorne a mensagem "Full Cycle Rocks" com a linguagem de programação Go.
 Essa imagem não pode ter mais de 2mb.
 
